@@ -1,13 +1,15 @@
 const art_deets = [
     {
         id: 'never_beena_natural',
+        image: "/art/never_beena_natural.png",
         title: 'Never been a natural',
         artist: 'Sanny',
         medium: 'Digital',
-        description: 'The poster features lyrics from a popular song that resonates deeply with me— and many people, and this was how I had interpreted it. '
+        description: 'The poster features lyrics from a popular song that resonates deeply with me— and many people, and this was how I had interpreted it. ',
     },
     {
         id: 'storm',
+        image: '/art/storm.png',
         title: 'Peace in the Storm',
         artist: 'Bess',
         medium: 'Acrylic on Canvas',
@@ -15,13 +17,15 @@ const art_deets = [
     },
     {
         id: 'Missing',
+        image: '/art/Missing.png',
         title: 'missing',
         artist: 'Frassomo',
         medium: 'Digital',
         description: 'Made using Photoshop and pictures I took from Purge Coffee Roaster'
     },
     {
-        id: 'performance_',
+        id: 'performance',
+        image: '/art/performance.png',
         title: 'Performance',
         artist: 'Kiean Odtojona',
         medium: 'Digital',
@@ -29,6 +33,7 @@ const art_deets = [
     },
     {
         id: 'altered_adam',
+        image: '/art/altered_adam.png',
         title: 'Altered Adam',
         artist: 'Kent B. Salvaña',
         medium: 'Acrylic & Poster Paint',
@@ -36,6 +41,7 @@ const art_deets = [
     },
     {
         id: 'chamomile',
+        image: '/art/chamomile.png',
         title: 'Honey Chamomile Star',
         artist: 'Cornikopia',
         medium: 'Traditional',
@@ -43,6 +49,7 @@ const art_deets = [
     },
     {
         id: 'saint',
+        image: '/art/saint.png',
         title: 'Saint',
         artist: 'Star Noveno',
         medium: 'Digital',
@@ -50,6 +57,7 @@ const art_deets = [
     },
     {
         id: 'sparrow',
+        image: '/art/sparrow.png',
         title: 'Sparrow',
         artist: 'Star Noveno',
         medium: 'Mixed Media',
@@ -57,6 +65,7 @@ const art_deets = [
     },
     {
         id: 'live_here',
+        image: '/art/live_here.png',
         title: 'Live here, Leave her',
         artist: 'Saeycred',
         medium: 'Oil Painting',
@@ -64,6 +73,7 @@ const art_deets = [
     },
     {
         id: 'vad_a',
+        image: '/art/vad_a.png',
         title: 'VAD_A Balangay Experience',
         artist: 'Vad',
         medium: 'Color Pastel',
@@ -71,6 +81,7 @@ const art_deets = [
     },
     {
         id: 'slow',
+        image: '/art/slow.png',
         title: 'a slow descent',
         artist: 'Frassomo',
         medium: 'Digital',
@@ -78,6 +89,7 @@ const art_deets = [
     },
     {
         id: 'mariposa',
+        image: '/art/mariposa.png',
         title: 'MARIPOSA',
         artist: 'ELLIOT DIMASUHID ',
         medium: 'DIGITAL ART',
@@ -85,13 +97,15 @@ const art_deets = [
     },
     {
         id: 'downpour',
+        image: '/art/downpour.png',
         title: 'Downpour',
         artist: 'franXII',
         medium: 'Acrylic',
-        description: 'A tranquil descent to madness as the endless cycle of knowing what is that hasnt been known unfolds itself to one. Dedicated to All who bear the suffering of responsibilities well above you. You are seen.  ',
+        description: 'Everything may fall, but rest assured that it will not always be dark and gray. ',
     },
     {
         id: 'franxiii',
+        image: '/art/franxiii.png',
         title: 'FranXII_Je Veux M effacer/ Gusto Nako Malaya',
         artist: 'franXII',
         medium: 'Acrylic',
@@ -99,6 +113,7 @@ const art_deets = [
     },
     {
         id: 'mesa',
+        image: '/art/mesa.png',
         title: 'Mesa ng Masa',
         artist: 'Bee',
         medium: 'Digital',
@@ -106,50 +121,58 @@ const art_deets = [
     },
     {
         id: 'earl',
-        title: '',
+        image: '/art/earl.png',
+        title: 'Untitled',
         artist: 'Earl Gabriel Dicipulo',
         medium: 'Digital Art'
 
     },
     {
         id: 'the_peace',
+        image: '/art/the_peace.png',
         title: 'The Peace Born Through War',
         artist: 'Sean Anthony Penn Lacorte',
         medium: 'Digital Art',
     },
     {
         id: 'devil_cat',
+        image: '/art/devil_cat.png',
         title: 'Devils Cat',
         artist: 'James Realuyo',
         medium: 'Digital Art',
     },
     {
         id: 'enchantment',
+        image: '/art/enchantmen.png',
         title: 'Mystic Enchantment',
         artist: 'Elliot Dimasuhid',
         medium: 'Digital Art',
     },
     {
         id: 'dance',
+        image: '/art/dance.png',
         title: 'Dance of the Rabbit Souls',
         artist: 'James Realuyo',
         medium: 'Digital Art',
     },
     {
         id: 'marielle',
+        image: '/art/marielle.png',
         title: 'Marielle on blue no.3',
         artist: 'James Realuyo',
         medium: 'Acrylic Paint',
     },
     {
         id: 'lespu',
+        image: '/art/lespu.png',
         title: 'lespu',
         artist: 'Ompoy',
         medium: 'Mixed Media',
     },
     {
         id: 'untitled',
-        title: 'untitled',
+        image: '/art/untitled.png',
+        title: 'Untitled',
         artist: 'Jimz',
         medium: 'Mixed Media',
     }

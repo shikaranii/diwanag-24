@@ -4,6 +4,7 @@ import Backgrounds from '../components/Backgrounds';
 import { motion } from 'framer-motion';
 import { AnimatePresence } from 'framer-motion';
 import { useRouter } from 'next/router';
+import '../styles/global.css';
 
 function MyApp({ Component, pageProps }) {
   const router = useRouter();

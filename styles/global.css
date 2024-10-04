@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "ArchitectsDaughter";
+    src: url("/fonts/ArchitectsDaughter.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+body {
+  font-family: 'ArchitectsDaughter', sans-serif;
+}
